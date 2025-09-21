@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PSVishal
-- 👀 I’m interested in ...FEA,CFD,Python,C++,Product Designing 
-- 🌱 I’m currently learning ...Ansys,Python etc.,
+- 👀 I’m interested in ... CFD,Python,C++,Product Designing 
+- 🌱 I’m currently learning ...Ansys,Python, OpenFOAM etc.,
 - 💞️ I’m looking to collaborate on ...Projects and Internships
 - 📫 How to reach me ...https://www.linkedin.com/in/vishal-sivaraman/ or mail me psvishal13@gmail.com
 
